@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Salty Sea Publishing"
+subtitle: |
+  Publisher of mystery and adventure novels in the Caribbean.
+content : |
+  <span style="color: #31ddb7; font-weight: bold;">Contact us: hi@saltyseapublishing.com</span>
+  <p><i>We're not accepting new submissions at this time.</i></p>
+button:
+  #label : "Get Started"
+  #link : "#first"
+image : "images/salty-sea-publishing-web.jpg"
+
