@@ -5,5 +5,14 @@
     <link>/</link>
     <description>Recent content on Salty Sea Publishing | Mystery and Adventure novels in the Caribbean</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 17 Mar 2021 09:50:57 -0400</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>test</description>
+    </item>
+    
   </channel>
 </rss>
